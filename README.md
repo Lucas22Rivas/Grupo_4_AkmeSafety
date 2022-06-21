@@ -25,9 +25,12 @@ reconocimiento de lo que se busca. Una oferta variada de productos.
 
 ## EQUIPO DE TRABAJO ##
 
-* PATRICIO CONSTANTINO:
-* RODRIGO FUENZALIDA:
+* PATRICIO CONSTANTINO: Tengo 38 años. Me dedico a la actividad de seguros hace 15 y soy nuevo en el mundo de la programación. Estoy muy ansioso por adquirir conocimientos en esta materia y así poder sumar nuevas herramientas en el ámbito profesional. Me gusta aprender cosas nuevas. Tengo como hobbies el deporte, principalmente fútbol y el diseño e impresión 3D.
+
+* RODRIGO FUENZALIDA: Me gusta todo lo relacionado a la informática, la tecnología y la música. Estoy con muchas ganas de aprender nuevas habilidades y poner en     práctica todo lo aprendido. En mis tiempos libres disfruto la naturaleza. 
+
 * BRUNO GRIECO:
+
 * LUCAS RIVAS:
 
 
