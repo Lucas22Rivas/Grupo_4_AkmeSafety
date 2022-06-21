@@ -1,6 +1,6 @@
-PROYECTO "ECOMMERCE" - DIGITAL HOUSE - DESARROLLO FULL STACK CON NODE.JS
+## PROYECTO "ECOMMERCE" - DIGITAL HOUSE - DESARROLLO FULL STACK CON NODE.JS ##
 
-AKMESAFETY #739
+> AKMESAFETY <
 
 
 ## ¿QUE PRODUCTOS BRINDARA EL SITIO? ##
@@ -18,10 +18,10 @@ reconocimiento de lo que se busca. Una oferta variada de productos.
 
 ## PÁGINA DE REFERENCIA QUE UTILIZAMOS ##
  
-- https://forsafesa.com  -->
-- https://www.bioseif.com.ar/ofertas.php -->
-- https://www.spasciani.com/es/ -->
-- https://www.fravida.com -->
+- https://forsafesa.com  --> Tomamos productos y descripciones.
+- https://bmwautomunich.com.ar/? --> Web que nos permitio tomar cosas de diseño como el boton de buscar.
+- https://www.bioseif.com.ar/ofertas.php -->Tomamos de esta web los productos que ofrece y las descripciones
+- https://www.fravida.com --> De esta web nos identificamos tomando cosas visuales como el carrusel de imagenes, los productos que tiene y su descripcion. Categorias desplegables e interaccion de la misma.
 
 ## EQUIPO DE TRABAJO ##
 
@@ -29,9 +29,9 @@ reconocimiento de lo que se busca. Una oferta variada de productos.
 
 * RODRIGO FUENZALIDA: Me gusta todo lo relacionado a la informática, la tecnología y la música. Estoy con muchas ganas de aprender nuevas habilidades y poner en     práctica todo lo aprendido. En mis tiempos libres disfruto la naturaleza. 
 
-* BRUNO GRIECO:
+* BRUNO GRIECO: 30 años. Trabajo en una empresa que fabrica y comercializa elementos de protección personal. Busco darle un cambio a mi vida profesional haciendo algo que me desafíe y me guste mas.
 
-* LUCAS RIVAS:
+* LUCAS RIVAS: Tengo 27 años y trabajo en Claro Arg como ingeniero de aseguramiento de servicios de IPTV y red de acceso Fijo. Me gustan las telecomunicaciones y tengo la necesidad de adquirir conocimiento que me lleven para el lado de automatización y cloud telco. Me gusta viajar y trabajar con maquinas herramientas haciendo cosas de herrería y carpintería.
 
 
 
